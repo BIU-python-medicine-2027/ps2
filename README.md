@@ -14,6 +14,9 @@ Edit **only** `math_utils.py`. Keep the function names and signatures.
 
 ## Practice in Colab (optional)
 
+**From GitHub:** use **Ctrl+click** / **⌘+click** (or middle-click) so Colab opens in a new tab — GitHub ignores `target=_blank` on README links.
+
+
 <a href="https://colab.research.google.com/github/BIU-python-medicine-2027/ps2/blob/main/simple_statistic.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The notebook is not graded — only `math_utils.py` counts.
