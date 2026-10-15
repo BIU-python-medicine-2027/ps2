@@ -2,6 +2,8 @@
 
 Implement three functions in `math_utils.py` for three numbers: max, mean, and mean+std.
 
+You already practiced `find_max_number` in **Tutorial 2**; here you also add `find_mean` and `find_mean_std` (and can refine max if needed).
+
 ## What to change
 
 Edit **only** `math_utils.py`. Keep the function names and signatures.
