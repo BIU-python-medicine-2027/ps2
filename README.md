@@ -14,7 +14,7 @@ Edit **only** `math_utils.py`. Keep the function names and signatures.
 
 ## Practice in Colab (optional)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/ps2/blob/main/simple_statistic.ipynb)
+<a href="https://colab.research.google.com/github/BIU-python-medicine-2027/ps2/blob/main/simple_statistic.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The notebook is not graded — only `math_utils.py` counts.
 
