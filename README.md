@@ -21,7 +21,7 @@ Edit **only** `math_utils.py`. Keep the function names and signatures.
 
 <a href="https://colab.research.google.com/github/BIU-python-medicine-2027/ps2/blob/main/simple_statistic.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-The notebook is not graded — only `math_utils.py` counts.
+The notebook is not graded — only `math_utils.py` counts. Each function in the notebook is followed with a **self-check** cell that runs the same cases as the autograder (and prints expected / got / hint) - run it before you copy your code into the `.py` file.
 
 ## Submit
 
@@ -33,8 +33,11 @@ The notebook is not graded — only `math_utils.py` counts.
 
 ## Grading — 10 points
 
+Points are split across cases; a failing case shows the exact input, expected value, your value, and a hint in the autograding **Details**.
+
 | Check | Points |
 | --- | ---: |
-| `find_max_number` | 4 |
-| `find_mean` | 3 |
-| `find_mean_std` | 3 |
+| `find_max_number` — distinct values / negatives / float | 2 |
+| `find_max_number` — ties (e.g. `3, 3, 1`) | 2 |
+| `find_mean` — `(1,2,3)`, with negatives, equal values | 1 + 1 + 1 |
+| `find_mean_std` — `(1,2,3)`, equal values, `(4,8,12)` | 1 + 1 + 1 |
